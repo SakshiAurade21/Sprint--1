@@ -1,4 +1,4 @@
-# 1st_time_adding
+
 # 📰 Django News Portal
 
 ## 📌 Project Overview  
